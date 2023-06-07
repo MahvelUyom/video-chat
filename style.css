@@ -12,6 +12,10 @@ body{
   border: 10px solid black;
   border-radius: 3rem;
 }
+.phone-body{
+    border-radius:3rem;
+
+}
 .videos{
   position: relative;
 }
