@@ -54,7 +54,8 @@ label{
 .cam{
   background-color: black;
   height: 5rem;
-  
+    border-radius:2rem 2rem 0 0;
+
 }
 .camrip{
   background-color: white;
