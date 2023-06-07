@@ -55,6 +55,7 @@ label{
   background-color: black;
   height: 5rem;
     border-radius:2rem 2rem 0 0;
+  padding:1rem 1.5rem;
 
 }
 .camrip{
@@ -62,9 +63,7 @@ label{
   width: 2rem;
   height: 2rem;
   border-radius: 50%;
-  margin:1rem 1.5rem;
-  
-
+ 
 }
 /* .camrip2{
   background-color: black;
